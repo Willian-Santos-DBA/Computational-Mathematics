@@ -1,4 +1,4 @@
-# 🧮 Matemática Computacional: Fundamentos para Engenharia, Ciência e Banco de Dados
+# 🧮 Matemática Computacional: Fundamentos para IA, DBA, Engenharia e Ciência de Dados
 
 Este repositório reúne as atividades e resoluções desenvolvidas durante a disciplina de Matemática Computacional. O foco do estudo é a aplicação de conceitos matemáticos em algoritmos, análise de precisão numérica e modelagem de funções, competências essenciais para a estruturação e otimização de grandes volumes de dados.
 
